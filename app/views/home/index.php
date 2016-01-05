@@ -91,7 +91,7 @@
                                       '<td>' + obj[i].name + '</td>' +
                                       '<td>' + obj[i].telephone + '</td>' +
                                       '<td>' + obj[i].email + '</td>' +
-                                      '<td>caminho para a foto</td>' +
+                                      '<td>foto</td>' +
                                       '</tr>';
                      $('tbody#foundUserTableBody').append(appendUser);
                   }
@@ -122,7 +122,7 @@
                   echo '<td>'.$user['name'].'</td>';
                   echo '<td>'.$user['telephone'].'</td>';
                   echo '<td>'.$user['email'].'</td>';
-                  echo '<td>caminho para a foto</td>';
+                  echo '<td>foto</td>';
                   echo '</tr>';
                }
             ?>
