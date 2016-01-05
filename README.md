@@ -14,11 +14,11 @@ Na tela inicial do sistema são listados os usuários cadastrados e são
 apresentados dois formulários, o primeiro para cadastro de novo usuário
 (que é anexado a lista de cadastrados sem refresh) e o segundo para busca
 de usuários cadastrados. O resultado da busca é apresentado em forma de
-lista logo abaixo do próprio formulário de busca.
+lista logo abaixo do próprio formulário de busca (também sem refresh).
 
 
 ### Instalação
-É necessária a criação de uma tabela pessoa contendo cinco campos:
+É necessária a criação de uma tabela Pessoa contendo cinco campos:
 
 ```sql
 CREATE TABLE `Pessoa` (
