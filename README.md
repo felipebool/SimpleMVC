@@ -4,12 +4,10 @@ Teste Prático
 Sistema de cadastro de usuário
 ---------------------
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+Sistema simples para cadastro de usuários utilizando Javascript, JQuery,
+Ajax, CSS, HTML, PHP, orientação a objetos, seguindo o padrão MVC e implementando
+persistência de dados.
 
-The quick brown fox jumped over the lazy
-dog's back.
 
 ### Header 3
 
