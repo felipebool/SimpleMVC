@@ -39,6 +39,8 @@ Alguns pontos ainda precisam ser implementados ou melhorados, segue a lista:
 
 
 * Modularização do código Javascript
-* Implementação da file upload para foto de usuário
+* Implementação do file upload para foto de usuário
 * Modificação da base de dados para suportar múltiplos emails e telefones por usuário
+* Apresentar mensagem quando nenhum usuário está cadastrado
+* Apresentar mensagem quando nenhum usuário foi encontrado na busca
 

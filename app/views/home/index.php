@@ -49,7 +49,7 @@
                                '<td>' + name + '</td>' +
                                '<td>' + telephone + '</td>' +
                                '<td>' + email + '</td>' +
-                               '<td> images/photo01.jpg </td>' +
+                               '<td> photo </td>' +
                                '</tr>';
                   $('#usersTable > tbody:last-child').append(newRow);
                   $('input#name, input#telephone, input#email').val('');
