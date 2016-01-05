@@ -38,6 +38,5 @@ de conexão com o banco do ambiente de instalação.
 Alguns pontos ainda precisam ser implementados ou melhorados, segue a lista:
 
 
-* Modularização do código Javascript
-Atualmente todo o código Javascript está dentro do arquivo *views/home/index.php*
+* Modularização do código Javascript: todo o código Javascript está dentro do arquivo *views/home/index.php*
 
