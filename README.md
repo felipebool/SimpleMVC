@@ -1,4 +1,4 @@
-Teste Prático
+SimpleMVC
 ====================
 
 Sistema de cadastro de usuário
